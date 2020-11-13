@@ -1,0 +1,15 @@
+{
+  "bundleDependencies": false,
+  "dependencies": {
+    "express": "latest"
+  },
+  "deprecated": false,
+  "description": "rHash | Data Encryption | by Swôth#9990",
+  "keywords": [],
+  "license": "Apache-2.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "version": "0.0.2"
+}
